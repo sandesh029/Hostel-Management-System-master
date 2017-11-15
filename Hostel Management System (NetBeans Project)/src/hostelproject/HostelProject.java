@@ -33,7 +33,7 @@ public class HostelProject extends Application
         Screen screen = Screen.getPrimary();
         Rectangle2D bounds = screen.getVisualBounds();
         Image ico=new Image("file:///D:/Study/Java/HostelProjecttest/src/hostelproject/media/net.png");
-        stage.setTitle("Banda Singh Bahadur Boys Hostel");
+        stage.setTitle("ARAVALI BOYS HOSTEL ");
         stage.getIcons().add(ico);
         stage.setX(bounds.getMinX());
         stage.setY(bounds.getMinY());

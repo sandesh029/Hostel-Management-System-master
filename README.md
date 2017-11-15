@@ -1,5 +1,5 @@
 # Hostel-Management-System
-Hostel Management System made for our Punjabi University hostel. Specific to requirements.
+Hostel Management System made for any University hostel. Specific to requirements.
 
 A desktop application aimed to manage hostel and all the related clerical work. The application was made using Java SE, Java FX and MySQL for Database. This was a personal project made during summer training tenure.
 
@@ -113,18 +113,5 @@ The mess accountant can search through the database using the search box at the 
 Changing Password
 Same as previous.
 
-Screenshots:
 
 
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/adjustment.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/details%20view.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/edit%20view.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/empty%20room.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/main.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/mess.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/new%20allotement.png)
-![](![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/shift%20to%20empty%20room.png))
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/swap.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/activity%20log.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/bills.png)
-![](https://raw.githubusercontent.com/pranavjindal999/Hostel-Management-System/master/screenshots/password.png)
